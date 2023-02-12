@@ -2,4 +2,3 @@ Gurubhushan
 Bangalore
 Java Home Cloud
 Karnataka
-Devops
